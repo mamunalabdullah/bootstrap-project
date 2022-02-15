@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.banner-container, #gallary{
+    background-color: #102040;
+}
+.banner-column{
+    background-color: #EBEBEB;
+}
+.navbar-container{
+    background-color: #272B3B;
+}
+#about, #projects{
+    background-color: #00A9C0;
+}
+#education{
+    background-color: #EEEDEF;
+}
+.title{
+    color: #FF938F;
+}
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: #FF938F;
+}
+#counter, footer{
+    background-color: #31C984;
+}
+#contact{
+    background-color: #474D5F;
+}
+footer i{
+    cursor: pointer;
+    font-size: 25px;
+}
